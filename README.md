@@ -1,6 +1,6 @@
 # Groundwork — development build
 
-Groundwork is a static progressive web app for a rugby league athlete. It includes a weekly planner, starter workout templates, exercise-by-exercise session logging (sets, reps and optional load), technique cues, progress summaries, manual fixture entry with editable results, editable team training nights and local JSON backup/restore.
+Groundwork is a static progressive web app for a rugby league athlete. It includes a weekly planner, starter workout templates, exercise-by-exercise session logging (sets, reps and optional load), technique cues with YouTube demonstration search links for every exercise, progress summaries, manual fixture entry with editable results, editable team training nights and local JSON backup/restore.
 
 ## Run on a laptop
 
@@ -11,7 +11,7 @@ Groundwork is a static progressive web app for a rugby league athlete. It includ
 
 For iPhone use, publish the folder to a free HTTPS static host, open its address in Safari while online, then use Share → Add to Home Screen. On iPhone, enable “Open as Web App” if that option appears. Keep the app open briefly on the first visit so its service worker can cache the complete app shell. Then test it by enabling Airplane Mode and opening Groundwork from the Home Screen. HTTPS is required for installation and service-worker caching.
 
-The hosting address serves only the app's static files. Groundwork does not send athlete records to that host: profile, workouts and fixtures are stored in localStorage on the iPhone. The app does not require a network connection after the first successful load and cache. Updates require internet access. Browser/device storage can still be cleared by iOS, so use Profile → Export backup and save the JSON file somewhere safe (for example, On My iPhone in Files).
+The hosting address serves only the app's static files. Groundwork does not send athlete records to that host: profile, workouts and fixtures are stored in localStorage on the iPhone. The app shell and training records work offline after the first successful load and cache. Exercise demonstration links open YouTube and therefore require an internet connection. Updates require internet access. Browser/device storage can still be cleared by iOS, so use Profile → Export backup and save the JSON file somewhere safe (for example, On My iPhone in Files).
 
 ## Current planning defaults
 
