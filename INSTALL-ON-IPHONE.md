@@ -34,3 +34,8 @@ GitHub's official instructions: https://docs.github.com/en/pages/quickstart
 ## Important
 
 This is an installable Home Screen web app (PWA), not an App Store application. It has not yet been tested on the target iPhone. After installing, test opening it in Airplane Mode and make a backup before entering substantial training history.
+
+
+### Exercise videos
+
+Selected exercise demonstrations play in a video window within Groundwork. Connect to the internet to stream them. Workout plans, exercise notes and athlete records remain stored locally; video playback is not available offline. If an embedded video is unavailable, close the player and follow the written cues or ask a qualified coach.

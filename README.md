@@ -32,3 +32,18 @@ This app is an organiser and basic tracker, not a medically or individually pres
 ## Testing
 
 Run `node --check app.js` to check JavaScript syntax and `node test.js` for the included logic checks. These are code-level checks, not a substitute for manual browser, iPhone, accessibility or coach testing.
+
+
+## Off-season weekly plan
+
+- Tuesday: gym lower-body strength
+- Wednesday: park speed, agility and rugby fitness (cones, 12-step ground agility ladder, football and available 200m+ grass space)
+- Thursday: gym upper-body strength
+- Friday: gym full-body strength and power
+
+The park session includes a warm-up, ladder footwork, short accelerations, controlled running efforts, football carries, cone changes of direction and a cooldown. The athlete should use a level appropriate to current ability, keep repetitions technically sound, and have gym exercise selection and resistance checked by a qualified youth strength and conditioning coach. Do not train through pain or fatigue that changes technique.
+
+
+## Exercise demonstrations
+
+Selected exercise demonstrations play in an in-app video window using YouTube's privacy-enhanced embed player. Video playback needs an internet connection and is not cached for offline use. The app shell and personal training records remain local to the device. Some less common movements do not yet have a curated in-app demonstration. If a video owner blocks embedding or a video is unavailable in your region, playback may not work; close the player and use the written exercise cues or ask a qualified coach.
